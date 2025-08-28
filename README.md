@@ -1,1 +1,1 @@
-# AI-ML-Week1-MiniProject-Cybersecurity-
+# AI-ML Internship
