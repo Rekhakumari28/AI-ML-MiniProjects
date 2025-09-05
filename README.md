@@ -1,4 +1,5 @@
 # 📘 Internship Learning Projects
+
 Welcome to my AI-PIIP-2025 Internship Repository 🚀
 This repository documents my 6-week industrial internship journey with Global Next Consulting India Pvt. Ltd. It includes learning notes, practice exercises, mini-projects, and the final capstone project.
 ---
